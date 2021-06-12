@@ -1,0 +1,16 @@
+C:\Users\sidne\Projeto_DIO_Series\bin\Debug\net5.0\Projeto_DIO_Series.exe
+C:\Users\sidne\Projeto_DIO_Series\bin\Debug\net5.0\Projeto_DIO_Series.deps.json
+C:\Users\sidne\Projeto_DIO_Series\bin\Debug\net5.0\Projeto_DIO_Series.runtimeconfig.json
+C:\Users\sidne\Projeto_DIO_Series\bin\Debug\net5.0\Projeto_DIO_Series.runtimeconfig.dev.json
+C:\Users\sidne\Projeto_DIO_Series\bin\Debug\net5.0\Projeto_DIO_Series.dll
+C:\Users\sidne\Projeto_DIO_Series\bin\Debug\net5.0\ref\Projeto_DIO_Series.dll
+C:\Users\sidne\Projeto_DIO_Series\bin\Debug\net5.0\Projeto_DIO_Series.pdb
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\Projeto_DIO_Series.csproj.AssemblyReference.cache
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\Projeto_DIO_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\Projeto_DIO_Series.AssemblyInfoInputs.cache
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\Projeto_DIO_Series.AssemblyInfo.cs
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\Projeto_DIO_Series.csproj.CoreCompileInputs.cache
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\Projeto_DIO_Series.dll
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\ref\Projeto_DIO_Series.dll
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\Projeto_DIO_Series.pdb
+C:\Users\sidne\Projeto_DIO_Series\obj\Debug\net5.0\Projeto_DIO_Series.genruntimeconfig.cache
