@@ -183,13 +183,8 @@ namespace Projeto_DIO_Series
                     if(i+1==listaSerie.Count){
                         aux = 0;
                     }
-                
-
                 }
-
             }
-
-
         }
 
 

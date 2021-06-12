@@ -17,8 +17,6 @@ namespace Projeto_DIO_Series.Interfaces
         void Atualiza(int id, T entidade);
 
         int ProximoID();
-
-
          
     }
 }
