@@ -1,6 +1,6 @@
 - Aplicativo simples para cadastro de séries;
 - Permite operações básicas como cadastro, visualização, exclusão e atualização;
-- Requisito para conclusão do bootcamp "Take Blip Fullstack Developer"
+- Requisito para conclusão do bootcamp "Take Blip Fullstack Developer".
 
 Contribuição Pessoal / Melhorias para o projeto: Visualização de séries de acordo com o gênero (comédia, drama, romance, etc.)
 No meu aplicativo, o usuário é capaz de visualizar todas as séries cadastradas de acordo com o gênero, por exemplo, o aplicativo mostra todas as séries policiais cadastradas em sequência, depois as de romance, depois as de ação, e segue assim até finalizar todas as categorias disponíveis no app.
